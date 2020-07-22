@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="exit">Выйти</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="items">%1d шт., %2d коробок</string>
+    <string name="birthday">Укажите дату рождения</string>
+    <string name="date">%1d/%2d/%3d</string>
+
+    <plurals name="apples">
+        <item quantity="zero">%1d яблок</item>
+        <item quantity="one">%1d яблоко</item>
+        <item quantity="few">%1d яблока</item>
+        <item quantity="many">%1d яблок</item>
+        <item quantity="two">%1d яблока</item>
+        <item quantity="other">%1d яблок</item>
+    </plurals>
+
+</resources>
